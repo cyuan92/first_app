@@ -1,3 +1,5 @@
-First Application
+# First Application
 
-This is the first application for Ruby on Rails Tutorial by Michael Hartl.
+This is the first application for 
+[*Ruby on Rails Tutorial*](http://railstutorial.org/)
+ by [Michael Hartl](http://michaelhartl.com/).
